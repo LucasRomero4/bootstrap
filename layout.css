@@ -1,0 +1,12 @@
+
+.ima{
+    background-image: url("imagenes/libros.jpg");
+    background-size: cover;
+}
+.ima2{
+    background-image: url("http://cet30.edu.ar/images/logos/logo-trans-150.png");
+    width: 480px;
+    height: 480px;
+    text-align: right;
+    background-size: cover;
+}
