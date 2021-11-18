@@ -3,10 +3,13 @@
     background-image: url("imagenes/libros.jpg");
     background-size: cover;
 }
-.ima2{
-    background-image: url("http://cet30.edu.ar/images/logos/logo-trans-150.png");
-    width: 480px;
-    height: 480px;
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/001/907/694/non_2x/light-grey-background-free-photo.jpg");
+    
     text-align: right;
     background-size: cover;
+    text-align: center;
+}
+.ingreso{
+    background-color: grey;
 }
